@@ -1,4 +1,4 @@
-### Heyo, I am Macromillion
+### Welcome 👋
 
 - 🔭 I’m currently working on the Comptia Linux+
 - 🌱 I’m currently learning the command line
