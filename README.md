@@ -15,7 +15,7 @@
 - 👩‍💻 Comptia A+
 
 #### Contact
-- 📮 pj6agjqkn@mozmail.com
+- 📮 4yfr4a2qz@mozmail.com
 - 🃏 Discord Mist#????
 
 ...use linux
