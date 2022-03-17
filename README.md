@@ -6,7 +6,7 @@
 - 💬 Ask me about Linux
 
 #### Favorite OS List
-1. Fedira Gnome
+1. Fedora Gnome
 2. Ubuntu Gnome
 3. Linux Mint Cinnamon
 
