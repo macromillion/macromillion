@@ -6,9 +6,9 @@
 - 💬 Ask me about Linux
 
 #### Favorite OS List
-1. Fedora Gnome
-2. Ubuntu Gnome
-3. Linux Mint Cinnamon
+1. 👼 Fedora Gnome
+2. 🐱 Ubuntu Gnome
+3. 🍃 Linux Mint Cinnamon
 
 #### Certifications
 - 🐭 Microsoft Specialist (useless)
@@ -16,6 +16,5 @@
 
 #### Contact
 - 📮 4yfr4a2qz@mozmail.com
-- 🃏 Discord Mist#????
 
 ...use linux
