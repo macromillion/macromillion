@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo, I am Macromillion
 
 - 🔭 I’m currently working on the Comptia Linux+
 - 🌱 I’m currently learning the command line
@@ -14,7 +14,7 @@
 - 🐭 Microsoft Specialist (useless)
 - 👩‍💻 Comptia A+
 
-### Contact
+#### Contact
 - 📮 pj6agjqkn@mozmail.com
 - 🃏 Discord Mist#????
 
