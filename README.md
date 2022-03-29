@@ -1,17 +1,18 @@
-### 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 👋
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚝𝚑𝚎 𝙲𝚘𝚖𝚙𝚝𝚒𝚊 𝙻𝚒𝚗𝚞𝚡+
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚕𝚒𝚗𝚎
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝚙𝚢𝚝𝚑𝚘𝚗 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 𝚊𝚗𝚍 𝚊𝚙𝚒𝚜
-- 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙻𝚒𝚗𝚞𝚡
+### Welcome
+- I'm currently working on the Comptia Linux+ cert
+- I'm currently learning the command line
+- I'm looking to collaborate on python scripts and APIs
 
 #### Favorite OS
-- Kali
+- Fedora
+- Ubuntu
+- Linux Mint
+- Arch
 
-#### 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜
-- 🐭 𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝 (𝚞𝚜𝚎𝚕𝚎𝚜𝚜)
-- 👩‍💻 𝙲𝚘𝚖𝚙𝚝𝚒𝚊 𝙰+
+#### Certifications
+- Computer Science Principles
+- Microsoft Office Specialist (useless...)
+- Comptia A+
 
-#### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
-- 📮 𝟺𝚢𝚏𝚛𝟺𝚊𝟸𝚚𝚣@𝚖𝚘𝚣𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
-
-...𝚞𝚜𝚎 𝚕𝚒𝚗𝚞𝚡
+#### Contact
+- 4yfr4a2qz@mozmail.com
