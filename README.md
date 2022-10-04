@@ -1,18 +1,16 @@
 ### Welcome
-- I'm currently working on the Comptia Linux+ cert
-- I'm currently learning the command line
+- I'm currently working on the Comptia Linux+ and Network+ cert
+- I am trying to learn more about networks and how to use Python to manipulate them
 - I'm looking to collaborate on python scripts and APIs
 
 #### Favorite OS
-- Fedora
-- Ubuntu
-- Linux Mint
-- Arch
+1. Arch
+2. Ubuntu
+3. Fedora
+4. Linux Mint
 
 #### Certifications
 - Computer Science Principles
 - Microsoft Office Specialist (useless...)
 - Comptia A+
-
-#### Contact
-- 4yfr4a2qz@mozmail.com
+- Comptia ITF+
